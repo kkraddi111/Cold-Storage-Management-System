@@ -62,17 +62,29 @@ A Django-based web application for managing cold storage facilities, bookings, a
 
 ColdStorageManagementSystem/
 ├── ColdStorage/
+
 │   ├── admin.py
+
 │   ├── models.py
+
 │   ├── views.py
+
 │   ├── templates/
+
 │   ├── static/
+
 │   └── ...
+
 ├── ColdStorageManagementSystem/
+
 │   ├── settings.py
+
 │   ├── urls.py
+
 │   └── ...
+
 ├── manage.py
+
 └── db.sqlite3
 
 ColdStorage/: Main Django app with models, views, templates, and static files.
