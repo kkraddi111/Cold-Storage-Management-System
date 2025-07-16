@@ -61,6 +61,7 @@ A Django-based web application for managing cold storage facilities, bookings, a
 🗂️ Project Structure
 
 ColdStorageManagementSystem/
+
 ├── ColdStorage/
 
 │   ├── admin.py
